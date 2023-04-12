@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratorio04TorresRosa</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo</string>
+    <string name="phone">Telefono</string>
+    <string name="title">Rellena la siguiente informaciòn</string>
+    <string name="share">Compartir</string>
+    <string name="titleactivity2">Confirma tu información</string>
+    <string name="savebutton">Guardar</string>
+</resources>
